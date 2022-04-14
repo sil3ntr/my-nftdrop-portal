@@ -5,6 +5,7 @@
 * The contract was funded and each message submitted via the contract has 50% chance of recieving 0.0001 ether
 * FE built and deployed at https://nftdropportal.sil3ntr.repl.co/
   * UI is my bad take on something retro, will update this once I get a bit more react knowledge
+  * Also need to fix the counter to render the total number of tx's via the contract
 
 ![nftdrop_homepage](https://user-images.githubusercontent.com/37803492/163329068-a2fade21-d1b6-4bb4-89fb-f8b0abbf3cf3.PNG)
 
