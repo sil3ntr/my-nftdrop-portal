@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+# Mint your own NFT collection and ship a Web3 app to show them off
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+* Setup for a weekend learning project at Buildspaces (buildspace.so)
+* Playing around with some Solidity fundamentals, my naming is decieving, the front end basically a webform for adding some text and metadata on chain.
+* FE built and deployed at https://nftdropportal.sil3ntr.repl.co/
+  * UI is my bad take on something retro, will update this once I get a bit more react knowledge.  
